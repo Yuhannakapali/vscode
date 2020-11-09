@@ -1,7 +1,7 @@
 // Place your key bindings in this file to override the defaultsauto[]
 [
   {
-    "key": "ctrl+c f",
+    "key": "shift+alt+x",
     "command": "workbench.files.action.collapseExplorerFolders"
   },
   {
@@ -30,10 +30,6 @@
     "key": "ctrl+shift+g g",
     "command": "-workbench.view.scm",
     "when": "gitlens:enabled && config.gitlens.keymap == 'chorded'"
-  },
-  {
-    "key": "ctrl+shift+alt+b",
-    "command": "breadcrumbs.toggle"
   },
   {
     "key": "left",
@@ -68,5 +64,14 @@
   {
     "key": "alt+s",
     "command": "workbench.action.toggleStatusbarVisibility"
+  },
+  {
+    "key": "ctrl+shift+.",
+    "command": "-breadcrumbs.toggleToOn",
+    "when": "!config.breadcrumbs.enabled"
+  },
+  {
+    "key": "ctrl+shift+. ctrl",
+    "command": "breadcrumbs.toggle"
   }
 ]

@@ -39,5 +39,7 @@
     "editor.renderWhitespace": "all",
     "workbench.statusBar.visible": false,
     "workbench.activityBar.visible": false,
-    "breadcrumbs.enabled": true
+    "breadcrumbs.enabled": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorWidth": 2
 }
