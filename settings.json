@@ -1,0 +1,43 @@
+{
+    "workbench.colorTheme": "Material Theme Ocean",
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#FFA000",
+        "activityBar.activeBorder": "#FFA000",
+        "list.activeSelectionForeground": "#FFA000",
+        "list.inactiveSelectionForeground": "#FFA000",
+        "list.highlightForeground": "#FFA000",
+        "scrollbarSlider.activeBackground": "#FFA00050",
+        "editorSuggestWidget.highlightForeground": "#FFA000",
+        "textLink.foreground": "#FFA000",
+        "progressBar.background": "#FFA000",
+        "pickerGroup.foreground": "#FFA000",
+        "tab.activeBorder": "#FFA000",
+        "notificationLink.foreground": "#FFA000",
+        "editorWidget.resizeBorder": "#FFA000",
+        "editorWidget.border": "#FFA000",
+        "settings.modifiedItemIndicator": "#FFA000",
+        "settings.headerForeground": "#FFA000",
+        "panelTitle.activeBorder": "#FFA000",
+        "breadcrumb.activeSelectionForeground": "#FFA000",
+        "menu.selectionForeground": "#FFA000",
+        "menubar.selectionForeground": "#FFA000",
+        "editor.findMatchBorder": "#FFA000",
+        "selection.background": "#FFA00040",
+        "statusBarItem.remoteBackground": "#FFA000"
+    },
+    "materialTheme.accent": "Yellow",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 14,
+    "workbench.sideBar.location": "left",
+    "editor.fontFamily": "Cascadia Code",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "all",
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": false,
+    "breadcrumbs.enabled": true
+}
